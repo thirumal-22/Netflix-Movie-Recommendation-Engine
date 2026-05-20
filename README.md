@@ -279,17 +279,19 @@ The application provides:
 ---
 
 ## 🖼️ Screenshots
+## Screenshots
 
-Add screenshots of your Streamlit app here after running the project.
+### Home Page
+![Home Page](screenshots/home.png)
 
-Suggested screenshots:
-1. Home Page
-2. EDA Dashboard
-3. Popular Movies Page
-4. Movie Recommendation Page
-5. User Recommendation Page
-6. Model Evaluation Page
+### Movie Recommendation System
+![Movie Recommendation System](screenshots/movie_recommendation.png)
 
+### User-Based Recommendation System
+![User Recommendation System](screenshots/user_recommendation.png)
+
+### Hybrid Recommendation Output
+![Hybrid Recommendation Output](screenshots/hybrid_output.png)
 ---
 
 ## 📌 Business Use Case
