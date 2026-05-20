@@ -290,8 +290,9 @@ The application provides:
 ### User-Based Recommendation System
 ![User Recommendation System](screenshots/user_recommendation.png)
 
-### Hybrid Recommendation Output
-![Hybrid Recommendation Output](screenshots/hybrid_output.png)
+### Model Evaluation
+![Model_evaluation](screenshots/model_evaluation.png)
+
 ---
 
 ## 📌 Business Use Case
