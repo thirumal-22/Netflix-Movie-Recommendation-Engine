@@ -533,7 +533,7 @@ elif menu == "📈 Model Evaluation":
 
     st.markdown("---")
 
-    st.subheader("Why this page is important for resume?")
+    # st.subheader("Why this page is important for resume?")
 
     st.write(
         """
@@ -578,7 +578,7 @@ elif menu == "🧠 Project Insights":
         """
     )
 
-    st.subheader("Resume Value")
+    # st.subheader("Resume Value")
 
     st.write(
         """
